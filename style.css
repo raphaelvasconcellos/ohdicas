@@ -16,6 +16,10 @@ img {
     width: 100%;
 }
 
+.modal-img{
+  width: 30%;
+}
+
 
 /* Style the top navigation bar */
 .topnav {
